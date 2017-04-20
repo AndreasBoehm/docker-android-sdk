@@ -12,7 +12,7 @@ Contains:
 
 ## Build
 ```bash
-docker build andreasboehm/docker-android-sdk:25.2.3 .
+docker build -t andreasboehm/docker-android-sdk:25.2.3 .
 ```
 
 ## Usage
